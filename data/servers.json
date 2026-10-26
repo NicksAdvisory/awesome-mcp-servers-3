@@ -3516,6 +3516,25 @@
     }
   },
   {
+    "name": "Lintelly HR Deutschland",
+    "url": "https://github.com/NicksAdvisory/lintelly-hr-deutschland",
+    "description": "German employment law for small companies: 38 read-only tools for notice periods, employer costs, sick pay, maternity protection and contract clauses, each answer with calculation and official source; remote server without sign-in.",
+    "category": "legal-and-court-data",
+    "language": "TypeScript",
+    "provider": "Lintelly",
+    "tags": [
+      "legal",
+      "hr",
+      "employment-law",
+      "germany",
+      "remote"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://hr.lintelly.com/mcp"
+    }
+  },
+  {
     "name": "Zaptu",
     "url": "https://github.com/TommyTap11/zaptu",
     "description": "Sends a person's consented US home-service contact request (service, ZIP, name, phone) to independent local providers; for plumbing it returns a number the person dials, and Zaptu does not perform the work.",
